@@ -3,3 +3,4 @@ define variable ctest as character no-undo.
 ctest = "hello world".
 message "Testing Git" skip ctest view-as alert-box.
 
+message "2nd commit" skip ctest view-as alert-box.
