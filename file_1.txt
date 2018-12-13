@@ -4,3 +4,5 @@ ctest = "hello world".
 message "Testing Git" skip ctest view-as alert-box.
 
 message "2nd commit" skip ctest view-as alert-box.
+
+message "3rd commit" skip ctest view-as alert-box.
